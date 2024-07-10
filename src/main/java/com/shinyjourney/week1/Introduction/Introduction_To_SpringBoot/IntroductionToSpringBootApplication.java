@@ -19,8 +19,6 @@ public class IntroductionToSpringBootApplication implements CommandLineRunner{
 	public void run(String... args){
 
 		obj1.eatMyApple();
-
-
 		System.out.println("obj1 = "+ obj1.hashCode());
 	}
 
